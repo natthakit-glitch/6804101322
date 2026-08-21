@@ -53,7 +53,7 @@ function onReset () {
 
       <q-toggle
         v-model="accept"
-        label="I accept the license and terms"
+        label="我接受许可和条款"
       />
 
       <div>
